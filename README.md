@@ -4,7 +4,7 @@
   <h2>Sua plaforma de estudos online.</h2>
 
 <h1 align="center">
-    Next Level Week by
+    Next Level Week
     </h1>
 
 </div>
